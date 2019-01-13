@@ -1,0 +1,12 @@
+{
+	"manifest_version": 2,
+	"name": "Tuan Launcher",
+	"description": "Quick Launch Websites",
+	"version": "1.0.0",
+	"icons": {"128": "iconfinder_Calendar-01_2035005_128px.png"},
+	"browser_action": {
+		"default_icon": "iconfinder_Calendar-01_2035005_128px.png",
+		"default_popup": "popup.html"
+	},
+	"permissions": ["activeTab"]
+}
